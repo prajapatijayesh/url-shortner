@@ -1,0 +1,14 @@
+{
+    "env": "production",
+    "dbConfig": {
+        "host": "localhost",
+        "user": "root",
+        "password": "root@123",
+        "database": "assignment_development",
+        "pool": {
+            "min": 0,
+            "max": 5
+        }
+    },
+    "secretKey": "secretKey"
+}
